@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "1ºANO/MANHA/2025",
+    "escola_id": 62,
+    "serie": "PRIMEIRO_ANO",
+    "turno": "MANHA"
+  },
+  {
+    "nome": "2ºANO/MANHA/2025",
+    "escola_id": 62,
+    "serie": "SEGUNDO_ANO",
+    "turno": "MANHA"
+  },
+  {
+    "nome": "3ºANO/MANHA/2025",
+    "escola_id": 62,
+    "serie": "TERCEIRO_ANO",
+    "turno": "MANHA"
+  },
+  {
+    "nome": "4ºANO/TARDE/2025",
+    "escola_id": 62,
+    "serie": "QUARTO_ANO",
+    "turno": "TARDE"
+  },
+  {
+    "nome": "5ºANO/TARDE/2025",
+    "escola_id": 62,
+    "serie": "QUINTO_ANO",
+    "turno": "TARDE"
+  }
+]

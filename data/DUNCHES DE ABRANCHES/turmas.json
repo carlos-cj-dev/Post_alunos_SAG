@@ -1,0 +1,62 @@
+[
+ {
+   "nome": "1º ANO MATUTINO/MANHÃ/2025",
+   "escola_id": 28,
+   "serie": "PRIMEIRO_ANO",
+   "turno": "MANHA"
+ },
+ {
+   "nome": "1º ANO VESPERTINO/TARDE/2025",
+   "escola_id": 28,
+   "serie": "PRIMEIRO_ANO",
+   "turno": "TARDE"
+ },
+ {
+   "nome": "2º ANO A MATUTINO/MANHÃ/2025",
+   "escola_id": 28,
+   "serie": "SEGUNDO_ANO",
+   "turno": "MANHA"
+ },
+ {
+   "nome": "2º ANO B MATUTINO/MANHÃ/2025",
+   "escola_id": 28,
+   "serie": "SEGUNDO_ANO",
+   "turno": "MANHA"
+ },
+ {
+   "nome": "3º ANO A VESPERTINO/TARDE/2025",
+   "escola_id": 28,
+   "serie": "TERCEIRO_ANO",
+   "turno": "TARDE"
+ },
+ {
+   "nome": "3º ANO B VESPERTINO/TARDE/2025",
+   "escola_id": 28,
+   "serie": "TERCEIRO_ANO",
+   "turno": "TARDE"
+ },
+ {
+   "nome": "4º ANO A VESPERTINO/TARDE/2025",
+   "escola_id": 28,
+   "serie": "QUARTO_ANO",
+   "turno": "TARDE"
+ },
+ {
+   "nome": "4º ANO B VESPERTINO/TARDE/2025",
+   "escola_id": 28,
+   "serie": "QUARTO_ANO",
+   "turno": "TARDE"
+ },
+ {
+   "nome": "5º ANO A MATUTINO/MANHÃ/2025",
+   "escola_id": 28,
+   "serie": "QUINTO_ANO",
+   "turno": "MANHA"
+ },
+ {
+   "nome": "5º ANO B MATUTINO/MANHÃ/2025",
+   "escola_id": 28,
+   "serie": "QUINTO_ANO",
+   "turno": "MANHA"
+ }
+]

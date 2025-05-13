@@ -1,0 +1,50 @@
+[
+  {
+    "nome": "1º ANO/TARDE/2025",
+    "escola_id": 29,
+    "serie": "PRIMEIRO_ANO",
+    "turno": "TARDE"
+  },
+  {
+    "nome": "2º ANO A/MANHÃ/2025",
+    "escola_id": 29,
+    "serie": "SEGUNDO_ANO",
+    "turno": "MANHA"
+  },
+  {
+    "nome": "2º ANO B/MANHÃ/2025",
+    "escola_id": 29,
+    "serie": "SEGUNDO_ANO",
+    "turno": "MANHA"
+  },
+  {
+    "nome": "3º ANO A/TARDE/2025",
+    "escola_id": 29,
+    "serie": "TERCEIRO_ANO",
+    "turno": "TARDE"
+  },
+  {
+    "nome": "3º ANO B/TARDE/2025",
+    "escola_id": 29,
+    "serie": "TERCEIRO_ANO",
+    "turno": "TARDE"
+  },
+  {
+    "nome": "4º ANO A/MANHÃ/2025",
+    "escola_id": 29,
+    "serie": "QUARTO_ANO",
+    "turno": "MANHA"
+  },
+  {
+    "nome": "4º ANO B/TARDE/2025",
+    "escola_id": 29,
+    "serie": "QUARTO_ANO",
+    "turno": "TARDE"
+  },
+  {
+    "nome": "5º ANO/MANHÃ/2025",
+    "escola_id": 29,
+    "serie": "QUINTO_ANO",
+    "turno": "MANHA"
+  }
+]

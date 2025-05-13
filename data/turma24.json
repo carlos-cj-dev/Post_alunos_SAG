@@ -1,0 +1,68 @@
+[
+  {
+    "nome": "1 ANO/TARDE/2025",
+    "escola_id": 24,
+    "serie": "PRIMEIRO_ANO",
+    "turno": "TARDE"
+  },
+  {
+    "nome": "2 ANO/TARDE/2025",
+    "escola_id": 24,
+    "serie": "SEGUNDO_ANO",
+    "turno": "TARDE"
+  },
+  {
+    "nome": "3 ANO/TARDE/2025",
+    "escola_id": 24,
+    "serie": "TERCEIRO_ANO",
+    "turno": "TARDE"
+  },
+  {
+    "nome": "4 ANO/TARDE/2025",
+    "escola_id": 24,
+    "serie": "QUARTO_ANO",
+    "turno": "TARDE"
+  },
+  {
+    "nome": "5 ANO/TARDE/2025",
+    "escola_id": 24,
+    "serie": "QUINTO_ANO",
+    "turno": "TARDE"
+  },
+  {
+    "nome": "6 ANO/MANHÃ/2025",
+    "escola_id": 24,
+    "serie": "SEXTO_ANO",
+    "turno": "MANHÃ"
+  },
+  {
+    "nome": "7 ANO/MANHÃ/2025",
+    "escola_id": 24,
+    "serie": "SETIMO_ANO",
+    "turno": "MANHÃ"
+  },
+  {
+    "nome": "8 ANO/MANHÃ/2025",
+    "escola_id": 24,
+    "serie": "OITAVO_ANO",
+    "turno": "MANHÃ"
+  },
+  {
+    "nome": "9 ANO/MANHÃ/2025",
+    "escola_id": 24,
+    "serie": "NONO_ANO",
+    "turno": "MANHÃ"
+  },
+  {
+    "nome": "AEE MATUTINO/MANHÃ/2025",
+    "escola_id": 24,
+    "serie": "AEE",
+    "turno": "MANHÃ"
+  },
+  {
+    "nome": "AEE VESPERTINO/TARDE/2025",
+    "escola_id": 24,
+    "serie": "AEE",
+    "turno": "TARDE"
+  }
+]
