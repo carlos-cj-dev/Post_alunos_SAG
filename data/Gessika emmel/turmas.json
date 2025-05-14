@@ -1,0 +1,74 @@
+[
+{
+"nome": "1 ANO A/TARDE/2025",
+"escola_id": 47,
+"serie": "PRIMEIRO_ANO",
+"turno": "TARDE"
+},
+{
+"nome": "1 ANO B/TARDE/2025",
+"escola_id": 47,
+"serie": "PRIMEIRO_ANO",
+"turno": "TARDE"
+},
+{
+"nome": "2 ANO A/MANHÃ/2025",
+"escola_id": 47,
+"serie": "SEGUNDO_ANO",
+"turno": "MANHA"
+},
+{
+"nome": "2 ANO B/MANHÃ/2025",
+"escola_id": 47,
+"serie": "SEGUNDO_ANO",
+"turno": "MANHA"
+},
+{
+"nome": "3 ANO A/TARDE/2025",
+"escola_id": 47,
+"serie": "TERCEIRO_ANO",
+"turno": "TARDE"
+},
+{
+"nome": "3 ANO B/TARDE/2025",
+"escola_id": 47,
+"serie": "TERCEIRO_ANO",
+"turno": "TARDE"
+},
+{
+"nome": "4 ANO A/TARDE/2025",
+"escola_id": 47,
+"serie": "QUARTO_ANO",
+"turno": "TARDE"
+},
+{
+"nome": "4 ANO B/TARDE/2025",
+"escola_id": 47,
+"serie": "QUARTO_ANO",
+"turno": "TARDE"
+},
+{
+"nome": "5 ANO A/TARDE/2025",
+"escola_id": 47,
+"serie": "QUINTO_ANO",
+"turno": "TARDE"
+},
+{
+"nome": "5 ANO B/MANHÃ/2025",
+"escola_id": 47,
+"serie": "QUINTO_ANO",
+"turno": "MANHA"
+},
+{
+"nome": "6 ANO A/MANHÃ/2025",
+"escola_id": 47,
+"serie": "SEXTO_ANO",
+"turno": "MANHA"
+},
+{
+"nome": "6 ANO B/MANHÃ/2025",
+"escola_id": 47,
+"serie": "SEXTO_ANO",
+"turno": "MANHA"
+}
+]

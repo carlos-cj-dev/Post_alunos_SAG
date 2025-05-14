@@ -1,12 +1,4 @@
-import requests
-
-
-
-# URL do endpoint da sua API
-url = "https://sag-sag.rak8a3.easypanel.host/api/alunos/batch"
-
-
-alunos = [
+[
   {"nome": "ALICY VICTORYA SANTIAGO VERAS RABELO", "escola_id": 15, "turma_id": 164},
   {"nome": "ARTHUR MANOEL DOS SANTOS DA SILVA", "escola_id": 15, "turma_id": 164},
   {"nome": "CLEUSON EMANUEL BRANDÃO MARINHO", "escola_id": 15, "turma_id": 164},
@@ -195,22 +187,3 @@ alunos = [
   {"nome": "MARIA CLEA DA COSTA PAIVA", "escola_id": 15, "turma_id": 170},
   {"nome": "MARIA CLARA SANTOS DA CONCEICAO", "escola_id": 15, "turma_id": 170}
 ]
-  
-
-
-# Cabeçalhos, incluindo token se necessário
-headers = {
-    "Content-Type": "application/json"
-}
-
-# Enviando os dados para a API
-response = requests.post(url, json=alunos, headers=headers)
-
-# Verificando o resultado
-if response.status_code in [200, 201]:
-    print("Alunos cadastrados com sucesso!")
-    #print(response.json())  # resposta da API
-else:
-    print("Erro ao cadastrar alunos:")
-    print(f"Status: {response.status_code}")
-    print(response.text)
